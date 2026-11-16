@@ -26,33 +26,27 @@ We use a Convolutional Neural Network (CNN) to build an image classification mod
 
 ## 4. Dataset Information
 
-**Dataset name:** `xray_dataset_covid19`
+Dataset Name: Dataset for CNN
 
-**Classes:**
+Platform: Kaggle
+
+Uploaded by: Mit Gandhi
+
+Dataset Link: https://www.kaggle.com/datasets/mitgandhi10/dataset-for-cnn
+
+Classes Used:
+
 - NORMAL
 - PNEUMONIA
 
-**Dataset structure:**
-```text
-xray_dataset_covid19/
-├── single prediction/
-├── train/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
-└── test/
-    ├── NORMAL/
-    └── PNEUMONIA/
-```
+Dataset Distribution:
 
-**Image distribution:**
+Dataset| NORMAL| PNEUMONIA| Total
+Training| 74| 74| 148
+Testing| 20| 20| 40
+Total| 94| 94| 188
 
-| Dataset | NORMAL | PNEUMONIA | Total |
-|---|---:|---:|---:|
-| Training | 74 | 74 | 148 |
-| Testing | 20 | 20 | 40 |
-| Total | 94 | 94 | 188 |
-
-**Dataset source:** Add the original dataset download URL and licence information here.
+Note: We use this dataset for educational purposes. Please check the original Kaggle dataset's licence and terms before redistributing its images.
 
 ## 5. Data Preprocessing
 The following preprocessing steps are performed:
