@@ -26,27 +26,24 @@ We use a Convolutional Neural Network (CNN) to build an image classification mod
 
 ## 4. Dataset Information
 
-Dataset Name: Dataset for CNN
+- Dataset Name: Dataset for CNN
+- Platform: Kaggle
+- Uploaded by: Mit Gandhi
+- Dataset Link: "Kaggle – Dataset for CNN" (https://www.kaggle.com/datasets/mitgandhi10/dataset-for-cnn)
 
-Platform: Kaggle
-
-Uploaded by: Mit Gandhi
-
-Dataset Link: https://www.kaggle.com/datasets/mitgandhi10/dataset-for-cnn
-
-Classes Used:
+Classes Used
 
 - NORMAL
 - PNEUMONIA
 
-Dataset Distribution:
+### Dataset Distribution
 
-Dataset| NORMAL| PNEUMONIA| Total
-Training| 74| 74| 148
-Testing| 20| 20| 40
-Total| 94| 94| 188
+| Dataset  | NORMAL | PNEUMONIA | Total |
+|----------|--------|-----------|-------|
+| Training | 74     | 74        | 148   |
+| Testing  | 20     | 20        | 40    |
+| Total    | 94     | 94        | 188   |
 
-Note: We use this dataset for educational purposes. Please check the original Kaggle dataset's licence and terms before redistributing its images.
 
 ## 5. Data Preprocessing
 The following preprocessing steps are performed:
