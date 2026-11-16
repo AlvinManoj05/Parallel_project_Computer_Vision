@@ -66,15 +66,10 @@ The following preprocessing steps are performed:
 
 ## 6. Project Structure
 ```text
-Pneumonia-Detection/
-├── notebooks/
-│   ├── 01_Dataset_Exploration_and_Preprocessing-Ananthika.ipynb
-│   └── 02_CNN_Model_Training_and_Evaluation.ipynb
-├── dataset/
-│   └── README.md
-├── README.md
-├── requirements.txt
-└── CONTRIBUTIONS.md
+Parallel_project_Computer_Vision/
+│
+├── Parallel_Project_computerVision_PneumoniaD...ipynb
+└── README.md
 ```
 
 ## 7. Team Members
