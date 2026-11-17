@@ -71,9 +71,11 @@ Parallel_project_Computer_Vision/
 | **Phase 1: Exploratory Data Analysis (EDA)** | Understand images, labels and class distribution. | Ananthika |
 | **Phase 2: Image Preprocessing** | Resize, normalize, augment and prepare images. | Ananthika |
 | **Phase 3: Model Development** | Build CNN and Transfer Learning models. | Anjima |
-| **Phase 4: Model Training and Optimization** | Train, validate and improve model performance. | Aswathy |
-| **Phase 5: Model Evaluation and Testing** | Test the model using unseen images. | Gautham |
-| **Phase 6: Application Development** | Build an interface to predict new X-ray images. | Alvin |
+| **Phase 4: FineTuning** | fine tuning cnn model. | Dhevan |
+| **Phase 5: Model Training and Optimization** | Train, validate and improve model performance. | Aswathy |
+| **Phase 6: Model Evaluation and Testing** | Test the model using unseen images. | Gautham |
+| **Phase 7: Hyper parameter Tuning** | Hyper parameter Tuning of Res-net . | Jobil |
+| **Phase 8: Application Development** | Build an interface to predict new X-ray images. | Alvin |
 
 ## Team Members
 
