@@ -73,9 +73,9 @@ Parallel_project_Computer_Vision/
 | **Phase 3: Model Development** | Build CNN and Transfer Learning models. | Anjima |
 | **Phase 4: FineTuning** | fine tuning cnn model. | Dhevan |
 | **Phase 5: Model Training and Optimization** | Train, validate and improve model performance. | Aswathy |
-| **Phase 6: Model Evaluation and Testing** | Test the model using unseen images. | Gautham |
-| **Phase 7: Hyper parameter Tuning** | Hyper parameter Tuning of Res-net . | Jobil |
-| **Phase 8: Application Development** | Build an interface to predict new X-ray images. | Alvin |
+| **Phase 6: Hyper Parameter Tuning - ResNet** | Hyper parameter Tuning of ResNet . | Jobil |
+| **Phase 7: Hyper Parameter Tuning - Custom CNN** | Hyper parameter Tuning of Custom CNN. | Alvin |
+| **Phase 8: Model Evaluation and Testing** | Test the model using unseen images. | Gautham |
 
 ## Team Members
 
